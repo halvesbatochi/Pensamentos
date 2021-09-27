@@ -12,6 +12,7 @@ Aplicativo para apresentar pensamentos famosos.
 * Auto Layout
     * Constraint
         * Content Compression Resistance Priority
+        * Animações por constraint
     * Assets
 
 * Components
