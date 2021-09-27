@@ -34,6 +34,7 @@ Aplicativo para apresentar pensamentos famosos.
     * UserDefaults
         * Tabela interna para guardar pequenas quantidades de informações em formato de Property List, sendo:
           BOOL   |  INT  |  STRING |  DOUBLE  |  DATA  |  DICTONARY  |  ARRAY
+<br>
           As informações ficam persistidas enquanto o app estiver instalado, não possuem segurança, nem criptografia.
     * JSON
     * Bundle
