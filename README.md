@@ -34,8 +34,8 @@ Aplicativo para apresentar pensamentos famosos.
     * UserDefaults
         * Tabela interna para guardar pequenas quantidades de informações em formato de Property List, sendo:
           BOOL   |  INT  |  STRING |  DOUBLE  |  DATA  |  DICTONARY  |  ARRAY
-<br>
-          As informações ficam persistidas enquanto o app estiver instalado, não possuem segurança, nem criptografia.
+
+> As informações ficam persistidas enquanto o app estiver instalado, não possuem segurança, nem criptografia.
     * JSON
     * Bundle
 > Diretório no sistema de arquivos que agrupa código executável e demais recursos como imagens, sons e etc em um único lugar, com uma estrutura hierárquica padrão.
