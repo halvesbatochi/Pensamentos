@@ -38,14 +38,14 @@ Aplicativo para apresentar pensamentos famosos.
           As informações ficam persistidas enquanto o app estiver instalado, não possuem segurança, nem criptografia.
     * JSON
     * Bundle
-        * Diretório no sistema de arquivos que agrupa código executável e demais recursos como imagens, sons e etc em um único lugar, com uma estrutura hierárquica padrão.
-<br>
-          É nele que se encontra todos os recursos locais usados em um aplicativo, como  o **info.plist**.
-<br>
-          Cada tipo de recurso fica localizado em uma pasta apropriada, como por exemplo, a pasta Resource para imagens e sons. Estas pastas podem ser localizadas.
-<br>
-          Quando adiciona um arquivo e na tela o "add to targets" esta selecionado ele é adicionado ao Bundle - o que permite ser recuperado pelo *Bundle.main.url()*
-<br>
+> Diretório no sistema de arquivos que agrupa código executável e demais recursos como imagens, sons e etc em um único lugar, com uma estrutura hierárquica padrão.
+>
+> É nele que se encontra todos os recursos locais usados em um aplicativo, como  o **info.plist**.
+>
+> Cada tipo de recurso fica localizado em uma pasta apropriada, como por exemplo, a pasta Resource para imagens e sons. Estas pastas podem ser localizadas.
+>
+> Quando adiciona um arquivo e na tela o "add to targets" esta selecionado ele é adicionado ao Bundle - o que permite ser recuperado pelo *Bundle.main.url()*
+
 
 ## Snapshots
 
